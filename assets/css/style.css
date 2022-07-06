@@ -4,5 +4,7 @@
 }
 .calculator{
     background-color: aqua;
+    width: 50%;
+    margin: auto;
     height:10px
 }
